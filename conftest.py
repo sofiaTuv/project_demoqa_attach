@@ -2,7 +2,7 @@ import pytest
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selene import Browser, Config, browser
+from selene import browser
 
 from utils import attach
 
